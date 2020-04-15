@@ -1,0 +1,1 @@
+body{background:#eee}.game-container,body{text-align:center}.board{position:relative;width:480px;height:480px;margin:auto;flex-wrap:wrap}.board,.board-cell{box-sizing:border-box;display:flex}.board-cell{justify-content:center;align-items:center;width:25%;height:25%;border:1px solid #a19d97;border-radius:5px}.target-img{width:100%}
